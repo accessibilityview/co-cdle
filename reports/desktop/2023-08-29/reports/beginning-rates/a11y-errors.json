@@ -1,0 +1,125 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-138-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV",
+            "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__2col > div#tab-19671",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 970,
+              "left": 690,
+              "right": 1320,
+              "width": 630,
+              "height": 476
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--bp-tabs paragraph--view-mode--default paragraph…\" id=\"tab-19671\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Rates for 2023\nRates for 2022\nRates for 2023\n\nBusiness Classification\n\n\t\n\nBegin…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-valid-attr-value",
+    "title": "`[aria-*]` attributes do not have valid values",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid values. [Learn more](https://web.dev/aria-valid-attr-value/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-77-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,UL,0,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li.active > a",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 541,
+              "left": 690,
+              "right": 825,
+              "width": 135,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-19671-1\" aria-controls=\"Rates for 2023\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Rates for 2023",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Rates for 2023\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-78-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,UL,1,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 541,
+              "left": 827,
+              "right": 962,
+              "width": 135,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-19671-2\" aria-controls=\"Rates for 2022\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Rates for 2022",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Rates for 2022\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

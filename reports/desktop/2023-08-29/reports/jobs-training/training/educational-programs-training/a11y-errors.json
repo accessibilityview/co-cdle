@@ -1,0 +1,77 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-166-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,3,P,0,SPAN,1,EM,0,STRONG,0,A,0,SPAN",
+            "selector": "em > strong > a > span",
+            "boundingRect": {
+              "top": 628,
+              "bottom": 646,
+              "left": 408,
+              "right": 636,
+              "width": 227,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "Eligible Training Provider List",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-170-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 314,
+                    "bottom": 1200,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 886
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Training  Educational Programs & Training\nEducational Pr…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "valid-lang",
+    "title": "`[lang]` attributes do not have a valid value",
+    "description": "Specifying a valid [BCP 47 language](https://www.w3.org/International/questions/qa-choosing-language-tags#question) on elements helps ensure that text is pronounced correctly by a screen reader. [Learn more](https://web.dev/valid-lang/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-129-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,10,P,0,SPAN,2,A",
+            "selector": "div.field > p > span > a#COVID-19 PHE Hyperlink",
+            "boundingRect": {
+              "top": 1365,
+              "bottom": 1383,
+              "left": 844,
+              "right": 964,
+              "width": 119,
+              "height": 19
+            },
+            "snippet": "<a href=\"https://aspr.hhs.gov/legal/PHE/Pages/default.aspx\" lang=\"English\" name=\"COVID-19 PHE Hyperlink\" target=\"_blank\" id=\"COVID-19 PHE Hyperlink\" xml:lang=\"English\">",
+            "nodeLabel": "COVID-19 PHE\n(opens in new window)",
+            "explanation": "Fix all of the following:\n  Value of lang attribute not included in the list of valid languages"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-130-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,10,P,0,SPAN,4,A",
+            "selector": "div.field > p > span > a#Disaster Recovery Order Hyperlink",
+            "boundingRect": {
+              "top": 1389,
+              "bottom": 1407,
+              "left": 424,
+              "right": 616,
+              "width": 192,
+              "height": 19
+            },
+            "snippet": "<a href=\"https://drive.google.com/file/d/1dGVS7Nhw-c_KuDhqq-JQ6JE__Cs-_lb4/view?usp…\" lang=\"English\" name=\"Disaster Recovery Order Hyperlink\" target=\"_blank\" id=\"Disaster Recovery Order Hyperlink\" xml:lang=\"English\">",
+            "nodeLabel": "Disaster Recovery Order\n(opens in new window)",
+            "explanation": "Fix all of the following:\n  Value of lang attribute not included in the list of valid languages"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.language",
+          "wcag2aa",
+          "wcag312"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

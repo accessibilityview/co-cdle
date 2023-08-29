@@ -1,0 +1,191 @@
+[
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-83-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,16,P,0,SPAN,0,SPAN,0,SPAN,0,SPAN,2,A",
+            "selector": "span > span > span > a",
+            "boundingRect": {
+              "top": 1235,
+              "bottom": 1253,
+              "left": 1077,
+              "right": 1081,
+              "width": 4,
+              "height": 18
+            },
+            "snippet": "<a href=\"https://cdle.colorado.gov/workplace-conditions/colorado-chance-to-compete-…\">",
+            "nodeLabel": " ",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-85-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,16,P,0,SPAN,0,SPAN,0,SPAN,0,SPAN,4,A",
+            "selector": "span > span > span > a",
+            "boundingRect": {
+              "top": 1235,
+              "bottom": 1253,
+              "left": 1093,
+              "right": 1098,
+              "width": 4,
+              "height": 18
+            },
+            "snippet": "<a href=\"https://cdle.colorado.gov/workplace-conditions/colorado-chance-to-compete-…\">",
+            "nodeLabel": " ",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-87-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,16,P,0,SPAN,0,SPAN,0,SPAN,0,SPAN,6,A",
+            "selector": "span > span > span > a",
+            "boundingRect": {
+              "top": 1235,
+              "bottom": 1253,
+              "left": 1157,
+              "right": 1162,
+              "width": 4,
+              "height": 18
+            },
+            "snippet": "<a href=\"https://cdle.colorado.gov/workplace-conditions/colorado-chance-to-compete-…\">",
+            "nodeLabel": " ",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-93-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,20,P,0,SPAN,0,SPAN,0,SPAN,0,SPAN,3,A",
+            "selector": "span > span > span > a",
+            "boundingRect": {
+              "top": 1367,
+              "bottom": 1385,
+              "left": 176,
+              "right": 181,
+              "width": 5,
+              "height": 18
+            },
+            "snippet": "<a href=\"https://cdle.colorado.gov/sites/cdle/files/7%20CCR%201103-9%20Colorado%20C…\">",
+            "nodeLabel": " ",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-95-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,20,P,0,SPAN,0,SPAN,0,SPAN,0,SPAN,5,A",
+            "selector": "span > span > span > a",
+            "boundingRect": {
+              "top": 1367,
+              "bottom": 1385,
+              "left": 232,
+              "right": 237,
+              "width": 5,
+              "height": 18
+            },
+            "snippet": "<a href=\"https://cdle.colorado.gov/sites/cdle/files/7%20CCR%201103-9%20Colorado%20C…\">",
+            "nodeLabel": " ",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-97-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,20,P,0,SPAN,0,SPAN,0,SPAN,0,SPAN,7,A",
+            "selector": "span > span > span > a",
+            "boundingRect": {
+              "top": 1367,
+              "bottom": 1385,
+              "left": 249,
+              "right": 254,
+              "width": 5,
+              "height": 18
+            },
+            "snippet": "<a href=\"https://cdle.colorado.gov/sites/cdle/files/7%20CCR%201103-9%20Colorado%20C…\">",
+            "nodeLabel": " ",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-99-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,20,P,0,SPAN,0,SPAN,0,SPAN,0,SPAN,9,A",
+            "selector": "span > span > span > a",
+            "boundingRect": {
+              "top": 1367,
+              "bottom": 1385,
+              "left": 313,
+              "right": 318,
+              "width": 5,
+              "height": 18
+            },
+            "snippet": "<a href=\"https://cdle.colorado.gov/sites/cdle/files/7%20CCR%201103-9%20Colorado%20C…\">",
+            "nodeLabel": " ",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-101-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,20,P,0,SPAN,0,SPAN,0,SPAN,0,SPAN,11,A",
+            "selector": "span > span > span > a",
+            "boundingRect": {
+              "top": 1367,
+              "bottom": 1385,
+              "left": 339,
+              "right": 344,
+              "width": 5,
+              "height": 18
+            },
+            "snippet": "<a href=\"https://cdle.colorado.gov/sites/cdle/files/7%20CCR%201103-9%20Colorado%20C…\">",
+            "nodeLabel": " ",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 8
+  }
+]

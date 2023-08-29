@@ -1,0 +1,254 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-238-STRONG",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,1,UL,0,LI,1,A,0,SPAN,0,STRONG",
+            "selector": "li > a > span > strong",
+            "boundingRect": {
+              "top": 1485,
+              "bottom": 1503,
+              "left": 79,
+              "right": 192,
+              "width": 113,
+              "height": 19
+            },
+            "snippet": "<strong>",
+            "nodeLabel": "CareerOneStop",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-242-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 334,
+                    "bottom": 2137,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1804
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Career Help\nCareer Help\nCareer Help\nSkills Assessment\nFi…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-243-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,1,UL,1,LI,1,STRONG,0,A,0,SPAN",
+            "selector": "li > strong > a > span",
+            "boundingRect": {
+              "top": 1533,
+              "bottom": 1551,
+              "left": 180,
+              "right": 370,
+              "width": 189,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "labor market information",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-242-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 334,
+                    "bottom": 2137,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1804
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Career Help\nCareer Help\nCareer Help\nSkills Assessment\nFi…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-244-STRONG",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,1,UL,2,LI,2,A,0,SPAN,0,STRONG",
+            "selector": "li > a > span > strong",
+            "boundingRect": {
+              "top": 1581,
+              "bottom": 1599,
+              "left": 166,
+              "right": 292,
+              "width": 126,
+              "height": 19
+            },
+            "snippet": "<strong>",
+            "nodeLabel": "skills assessment",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-242-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 334,
+                    "bottom": 2137,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1804
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Career Help\nCareer Help\nCareer Help\nSkills Assessment\nFi…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-245-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,1,UL,3,LI,1,STRONG,0,A,0,SPAN",
+            "selector": "li > strong > a > span",
+            "boundingRect": {
+              "top": 1677,
+              "bottom": 1719,
+              "left": 79,
+              "right": 365,
+              "width": 286,
+              "height": 43
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "training or education",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-242-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 334,
+                    "bottom": 2137,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1804
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Career Help\nCareer Help\nCareer Help\nSkills Assessment\nFi…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 4
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-246-H3",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H3",
+            "selector": "div.paragraph__card > div.paragraph__column > div.paragraph__title > h3.mt-0",
+            "boundingRect": {
+              "top": 1339,
+              "bottom": 1378,
+              "left": 30,
+              "right": 382,
+              "width": 352,
+              "height": 39
+            },
+            "snippet": "<h3 class=\"mt-0 mb-0\">",
+            "nodeLabel": "Career Tips",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

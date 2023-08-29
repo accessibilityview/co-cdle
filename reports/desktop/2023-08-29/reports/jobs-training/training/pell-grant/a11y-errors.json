@@ -1,0 +1,128 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-180-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,1,P,0,EM,1,A,0,SPAN",
+            "selector": "p.text-align-right > em > a > span",
+            "boundingRect": {
+              "top": 1006,
+              "bottom": 1025,
+              "left": 1059,
+              "right": 1265,
+              "width": 205,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "Federal Student Aid Website",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-181-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV",
+                  "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__2col > div.paragraph__card",
+                  "boundingRect": {
+                    "top": 516,
+                    "bottom": 1037,
+                    "left": 859,
+                    "right": 1294,
+                    "width": 435,
+                    "height": 521
+                  },
+                  "snippet": "<div class=\"paragraph__card paragraph paragraph--type--card-basic card_no-border parag…\">",
+                  "nodeLabel": "WHAT IS THE PELL GRANT?\n\n\"The Pell Grant is the largest federal grant program o…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-182-H6",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6.text-align-center",
+            "boundingRect": {
+              "top": 1401,
+              "bottom": 1435,
+              "left": 377,
+              "right": 1311,
+              "width": 935,
+              "height": 33
+            },
+            "snippet": "<h6 class=\"text-align-center\">",
+            "nodeLabel": "For Financial Aid information visit",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

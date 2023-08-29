@@ -1,0 +1,245 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-251-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,P,0,SPAN,1,STRONG,0,A,0,SPAN",
+            "selector": "span > strong > a > span",
+            "boundingRect": {
+              "top": 1695,
+              "bottom": 1714,
+              "left": 125,
+              "right": 185,
+              "width": 60,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "ETA 790",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.88 (foreground color: #009add, background color: #f5f5f5, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-252-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+                  "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div.paragraph__card",
+                  "boundingRect": {
+                    "top": 1538,
+                    "bottom": 3045,
+                    "left": 30,
+                    "right": 382,
+                    "width": 352,
+                    "height": 1506
+                  },
+                  "snippet": "<div class=\"paragraph__card paragraph paragraph--type--card-basic card_border paragrap…\">",
+                  "nodeLabel": "GET STARTED\nPROCESS & TIME LINES\n\nFile the ETA 790\n(opens in new window)\n form …"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-253-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,P,0,SPAN,3,STRONG,0,A,0,SPAN",
+            "selector": "span > strong > a > span",
+            "boundingRect": {
+              "top": 1791,
+              "bottom": 1810,
+              "left": 66,
+              "right": 220,
+              "width": 155,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "cdle_flc@state.co.us",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.88 (foreground color: #009add, background color: #f5f5f5, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-252-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+                  "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div.paragraph__card",
+                  "boundingRect": {
+                    "top": 1538,
+                    "bottom": 3045,
+                    "left": 30,
+                    "right": 382,
+                    "width": 352,
+                    "height": 1506
+                  },
+                  "snippet": "<div class=\"paragraph__card paragraph paragraph--type--card-basic card_border paragrap…\">",
+                  "nodeLabel": "GET STARTED\nPROCESS & TIME LINES\n\nFile the ETA 790\n(opens in new window)\n form …"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-254-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,3,P,1,STRONG,0,A,0,SPAN",
+            "selector": "p > strong > a > span",
+            "boundingRect": {
+              "top": 1947,
+              "bottom": 1966,
+              "left": 66,
+              "right": 216,
+              "width": 151,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "https://flag.dol.gov/",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.88 (foreground color: #009add, background color: #f5f5f5, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-252-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+                  "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div.paragraph__card",
+                  "boundingRect": {
+                    "top": 1538,
+                    "bottom": 3045,
+                    "left": 30,
+                    "right": 382,
+                    "width": 352,
+                    "height": 1506
+                  },
+                  "snippet": "<div class=\"paragraph__card paragraph paragraph--type--card-basic card_border paragrap…\">",
+                  "nodeLabel": "GET STARTED\nPROCESS & TIME LINES\n\nFile the ETA 790\n(opens in new window)\n form …"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-255-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,6,P,1,STRONG,0,A,0,SPAN",
+            "selector": "p > strong > a > span",
+            "boundingRect": {
+              "top": 2392,
+              "bottom": 2410,
+              "left": 66,
+              "right": 377,
+              "width": 312,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "https://www.foreignlaborcert.doleta.gov/",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.88 (foreground color: #009add, background color: #f5f5f5, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-252-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+                  "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div.paragraph__card",
+                  "boundingRect": {
+                    "top": 1538,
+                    "bottom": 3045,
+                    "left": 30,
+                    "right": 382,
+                    "width": 352,
+                    "height": 1506
+                  },
+                  "snippet": "<div class=\"paragraph__card paragraph paragraph--type--card-basic card_border paragrap…\">",
+                  "nodeLabel": "GET STARTED\nPROCESS & TIME LINES\n\nFile the ETA 790\n(opens in new window)\n form …"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-256-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,P,1,A,0,SPAN",
+            "selector": "div.field > p > a > span",
+            "boundingRect": {
+              "top": 3201,
+              "bottom": 3219,
+              "left": 117,
+              "right": 266,
+              "width": 149,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "cdle_flc@state.co.us",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.88 (foreground color: #009add, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-257-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+                  "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div.paragraph__card",
+                  "boundingRect": {
+                    "top": 3070,
+                    "bottom": 3498,
+                    "left": 30,
+                    "right": 382,
+                    "width": 352,
+                    "height": 428
+                  },
+                  "snippet": "<div class=\"paragraph__card paragraph paragraph--type--card-basic card_border paragrap…\">",
+                  "nodeLabel": "CONTACT US\n\nForeign Labor Certification Unit\n\nEmail: cdle_flc@state.co.us\n\nAddr…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 5
+  }
+]

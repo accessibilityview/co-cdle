@@ -1,0 +1,254 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-172-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,5,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div#tab-17466",
+            "boundingRect": {
+              "top": 2064,
+              "bottom": 2239,
+              "left": 15,
+              "right": 1335,
+              "width": 1320,
+              "height": 175
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--bp-tabs paragraph--view-mode--default paragraph…\" id=\"tab-17466\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Jobs and Training\nAppeals\nOther Resources\n\n\nFind Your Local Workforce Center\n(o…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-valid-attr-value",
+    "title": "`[aria-*]` attributes do not have valid values",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid values. [Learn more](https://web.dev/aria-valid-attr-value/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-86-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,5,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li.active > a",
+            "boundingRect": {
+              "top": 2064,
+              "bottom": 2110,
+              "left": 15,
+              "right": 171,
+              "width": 156,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-17466-1\" aria-controls=\"Jobs and Training\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Jobs and Training",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Jobs and Training\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-87-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,5,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 2064,
+              "bottom": 2110,
+              "left": 173,
+              "right": 260,
+              "width": 88,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-17466-2\" aria-controls=\"Appeals\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Appeals",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Appeals\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-88-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,5,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 2064,
+              "bottom": 2110,
+              "left": 262,
+              "right": 411,
+              "width": 148,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-17466-3\" aria-controls=\"Other Resources\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Other Resources",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Other Resources\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 3
+  },
+  {
+    "id": "button-name",
+    "title": "Buttons do not have an accessible name",
+    "description": "When a button doesn't have an accessible name, screen readers announce it as \"button\", making it unusable for users who rely on screen readers. [Learn more](https://web.dev/button-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-173-BUTTON",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,6,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,3,DF-MESSENGER,a,#document-fragment,1,DIV,1,BUTTON",
+            "selector": "div.df-messenger-wrapper > button#widgetIcon",
+            "boundingRect": {
+              "top": 864,
+              "bottom": 920,
+              "left": 1274,
+              "right": 1330,
+              "width": 56,
+              "height": 56
+            },
+            "snippet": "<button id=\"widgetIcon\">",
+            "nodeLabel": "div.df-messenger-wrapper > button#widgetIcon",
+            "explanation": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "image-alt",
+    "title": "Image elements do not have `[alt]` attributes",
+    "description": "Informative elements should aim for short, descriptive alternate text. Decorative elements can be ignored with an empty alt attribute. [Learn more](https://web.dev/image-alt/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-174-IMG",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,6,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,3,DF-MESSENGER,a,#document-fragment,1,DIV,1,BUTTON,0,IMG",
+            "selector": "div.df-messenger-wrapper > button#widgetIcon > img.df-chat-icon",
+            "boundingRect": {
+              "top": 874,
+              "bottom": 910,
+              "left": 1284,
+              "right": 1320,
+              "width": 36,
+              "height": 36
+            },
+            "snippet": "<img class=\"df-chat-icon\" src=\"https://storage.googleapis.com/cdle-assets/chat_bubble_image.png\">",
+            "nodeLabel": "div.df-messenger-wrapper > button#widgetIcon > img.df-chat-icon",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag111",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-188-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div#tab-14506",
+            "boundingRect": {
+              "top": 1297,
+              "bottom": 1520,
+              "left": 15,
+              "right": 1335,
+              "width": 1320,
+              "height": 223
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--bp-tabs paragraph--view-mode--default paragraph…\" id=\"tab-14506\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Find a Job\nCareer Help\nTraining\nVeterans\nUnemployment\nYouth\n\n \nFind a Job\n(open…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-valid-attr-value",
+    "title": "`[aria-*]` attributes do not have valid values",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid values. [Learn more](https://web.dev/aria-valid-attr-value/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-88-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li.active > a",
+            "boundingRect": {
+              "top": 1297,
+              "bottom": 1343,
+              "left": 15,
+              "right": 121,
+              "width": 106,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-14506-1\" aria-controls=\"Find a Job\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Find a Job",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Find a Job\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-89-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1297,
+              "bottom": 1343,
+              "left": 123,
+              "right": 240,
+              "width": 118,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-14506-2\" aria-controls=\"Career Help\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Career Help",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Career Help\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-90-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1297,
+              "bottom": 1343,
+              "left": 242,
+              "right": 331,
+              "width": 89,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-14506-3\" aria-controls=\"Training\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Training",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Training\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-91-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,3,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1297,
+              "bottom": 1343,
+              "left": 333,
+              "right": 427,
+              "width": 94,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-14506-4\" aria-controls=\"Veterans\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Veterans",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Veterans\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-92-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,4,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1297,
+              "bottom": 1343,
+              "left": 429,
+              "right": 569,
+              "width": 140,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-14506-5\" aria-controls=\"Unemployment\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Unemployment",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Unemployment\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-93-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,5,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1297,
+              "bottom": 1343,
+              "left": 571,
+              "right": 643,
+              "width": 72,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-14506-6\" aria-controls=\"Youth\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Youth",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Youth\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 6
+  }
+]

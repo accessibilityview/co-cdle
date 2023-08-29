@@ -1,0 +1,201 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-219-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div#tab-43601",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 1891,
+              "left": 368,
+              "right": 1320,
+              "width": 953,
+              "height": 1397
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--bp-tabs paragraph--view-mode--default paragraph…\" id=\"tab-43601\" aria-multiselectable=\"true\">",
+            "nodeLabel": "LEYES\nQUEJAS\nHOJAS INFORMATIVAS\nDEMANDAS\nAPELACIONES\nRECURSOS ADICIONALES\nLeyes…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-valid-attr-value",
+    "title": "`[aria-*]` attributes do not have valid values",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid values. [Learn more](https://web.dev/aria-valid-attr-value/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-129-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li.active > a",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 541,
+              "left": 368,
+              "right": 442,
+              "width": 74,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-43601-1\" aria-controls=\"LEYES\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "LEYES",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"LEYES\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-130-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 541,
+              "left": 444,
+              "right": 530,
+              "width": 87,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-43601-2\" aria-controls=\"QUEJAS\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "QUEJAS",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"QUEJAS\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-131-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 541,
+              "left": 532,
+              "right": 716,
+              "width": 184,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-43601-3\" aria-controls=\"HOJAS INFORMATIVAS\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "HOJAS INFORMATIVAS",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"HOJAS INFORMATIVAS\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-132-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,3,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 541,
+              "left": 718,
+              "right": 826,
+              "width": 108,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-43601-4\" aria-controls=\"DEMANDAS\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "DEMANDAS",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"DEMANDAS\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-133-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,4,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 541,
+              "left": 828,
+              "right": 956,
+              "width": 128,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-43601-5\" aria-controls=\"APELACIONES\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "APELACIONES",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"APELACIONES\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-134-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,5,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 541,
+              "left": 958,
+              "right": 1160,
+              "width": 202,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-43601-6\" aria-controls=\"RECURSOS ADICIONALES\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "RECURSOS ADICIONALES",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"RECURSOS ADICIONALES\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 6
+  }
+]

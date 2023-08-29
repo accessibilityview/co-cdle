@@ -1,0 +1,128 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-164-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,P,1,STRONG,1,A,0,SPAN",
+            "selector": "p > strong > a > span",
+            "boundingRect": {
+              "top": 618,
+              "bottom": 637,
+              "left": 945,
+              "right": 1232,
+              "width": 287,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#328cc1;\">",
+            "nodeLabel": "CareerReady Certificate Administrator",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.4 (foreground color: #328cc1, background color: #f5f5f5, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-165-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV",
+                  "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__2col > div.paragraph__card",
+                  "boundingRect": {
+                    "top": 495,
+                    "bottom": 1056,
+                    "left": 859,
+                    "right": 1320,
+                    "width": 461,
+                    "height": 561
+                  },
+                  "snippet": "<div class=\"paragraph__card paragraph paragraph--type--card-basic card_border paragrap…\">",
+                  "nodeLabel": "How To Get Started\n\n \nFind a CareerReady Certificate Administrator\n(opens in ne…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-166-H3",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,H3",
+            "selector": "div.paragraph__card > div.paragraph__column > div.paragraph__title > h3.mt-0",
+            "boundingRect": {
+              "top": 521,
+              "bottom": 572,
+              "left": 885,
+              "right": 1294,
+              "width": 408,
+              "height": 51
+            },
+            "snippet": "<h3 class=\"mt-0 mb-0\">",
+            "nodeLabel": "How To Get Started",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

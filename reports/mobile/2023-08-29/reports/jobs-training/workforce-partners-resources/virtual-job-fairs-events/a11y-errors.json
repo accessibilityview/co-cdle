@@ -1,0 +1,72 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-245-H3",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,H3",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h3.vjf",
+            "boundingRect": {
+              "top": 793,
+              "bottom": 853,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 59
+            },
+            "snippet": "<h3 class=\"vjf text-align-left\">",
+            "nodeLabel": "Host a Virtual Job Fair or Virtual Event",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-246-H4",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,8,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,H4",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h4.text-align-center",
+            "boundingRect": {
+              "top": 2163,
+              "bottom": 2213,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 50
+            },
+            "snippet": "<h4 class=\"text-align-center\">",
+            "nodeLabel": "Virtual and In-Person Job Fairs and Events",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-219-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div#tab-13736",
+            "boundingRect": {
+              "top": 1971,
+              "bottom": 2155,
+              "left": 15,
+              "right": 1335,
+              "width": 1320,
+              "height": 184
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--bp-tabs paragraph--view-mode--default paragraph…\" id=\"tab-13736\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Starting a Business\nRecruiting & Hiring\nIncentives & Tax Credits\nLabor Laws\nLay…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-valid-attr-value",
+    "title": "`[aria-*]` attributes do not have valid values",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid values. [Learn more](https://web.dev/aria-valid-attr-value/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-97-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li.active > a",
+            "boundingRect": {
+              "top": 1971,
+              "bottom": 2017,
+              "left": 15,
+              "right": 181,
+              "width": 166,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-13736-1\" aria-controls=\"Starting a Business\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Starting a Business",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Starting a Business\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-98-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1971,
+              "bottom": 2017,
+              "left": 183,
+              "right": 351,
+              "width": 168,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-13736-2\" aria-controls=\"Recruiting &amp;&nbsp;Hiring\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Recruiting & Hiring",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Recruiting & Hiring\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-99-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1971,
+              "bottom": 2017,
+              "left": 353,
+              "right": 557,
+              "width": 205,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-13736-3\" aria-controls=\"Incentives &amp; Tax Credits\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Incentives & Tax Credits",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Incentives & Tax Credits\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-100-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,3,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1971,
+              "bottom": 2017,
+              "left": 559,
+              "right": 671,
+              "width": 112,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-13736-4\" aria-controls=\"Labor Laws\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Labor Laws",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Labor Laws\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-101-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,4,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1971,
+              "bottom": 2017,
+              "left": 673,
+              "right": 860,
+              "width": 187,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-13736-5\" aria-controls=\"Layoffs &amp; Separations\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Layoffs & Separations",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Layoffs & Separations\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-102-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,5,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1971,
+              "bottom": 2017,
+              "left": 862,
+              "right": 939,
+              "width": 76,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-13736-6\" aria-controls=\"Audits\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Audits",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Audits\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-103-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,6,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1971,
+              "bottom": 2017,
+              "left": 941,
+              "right": 1229,
+              "width": 288,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-13736-7\" aria-controls=\"Unemployment Insurance Premiums\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Unemployment Insurance Premiums",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Unemployment Insurance Premiums\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-104-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,7,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 2016,
+              "bottom": 2062,
+              "left": 15,
+              "right": 213,
+              "width": 198,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-13736-8\" aria-controls=\"Workers'&nbsp;Compensation\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Workers' Compensation",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Workers' Compensation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-105-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,8,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 2016,
+              "bottom": 2062,
+              "left": 215,
+              "right": 298,
+              "width": 83,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-13736-9\" aria-controls=\"Posters\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Posters",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Posters\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-106-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,9,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 2016,
+              "bottom": 2062,
+              "left": 300,
+              "right": 418,
+              "width": 118,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-13736-10\" aria-controls=\"Online Tools\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Online Tools",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Online Tools\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 10
+  }
+]

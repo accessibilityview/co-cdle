@@ -1,0 +1,357 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-246-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,1,OL,6,LI,1,STRONG,0,A,0,SPAN",
+            "selector": "li > strong > a > span",
+            "boundingRect": {
+              "top": 2748,
+              "bottom": 2766,
+              "left": 178,
+              "right": 273,
+              "width": 94,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "LMI Gateway",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.88 (foreground color: #009add, background color: #f5f5f5, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-247-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV",
+                  "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__2col > div.paragraph__card",
+                  "boundingRect": {
+                    "top": 2073,
+                    "bottom": 2985,
+                    "left": 30,
+                    "right": 382,
+                    "width": 352,
+                    "height": 912
+                  },
+                  "snippet": "<div class=\"paragraph__card paragraph paragraph--type--card-basic card_border paragrap…\">",
+                  "nodeLabel": "QUESTIONS TO ASK YOURSELF\n\nConsider the following questions:\n\nWhat type of indu…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-248-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,P,1,STRONG,0,A,0,SPAN",
+            "selector": "p.state > strong > a > span",
+            "boundingRect": {
+              "top": 3325,
+              "bottom": 3372,
+              "left": 39,
+              "right": 332,
+              "width": 293,
+              "height": 47
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "List of Temporary COVID-19 Job Openings",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 13.2pt (17.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-249-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 334,
+                    "bottom": 4744,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 4410
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Find a Job  Online Job Search\nOnline Job Search\nCareer H…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-250-STRONG",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,P,3,A,0,SPAN,0,STRONG",
+            "selector": "p.state > a > span > strong",
+            "boundingRect": {
+              "top": 3351,
+              "bottom": 3372,
+              "left": 263,
+              "right": 372,
+              "width": 109,
+              "height": 21
+            },
+            "snippet": "<strong>",
+            "nodeLabel": "How to Apply",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 13.2pt (17.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-249-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 334,
+                    "bottom": 4744,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 4410
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Find a Job  Online Job Search\nOnline Job Search\nCareer H…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-251-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,3,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,P,1,STRONG,0,EM,0,A,0,SPAN",
+            "selector": "strong > em > a > span",
+            "boundingRect": {
+              "top": 3848,
+              "bottom": 3867,
+              "left": 105,
+              "right": 262,
+              "width": 157,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "Connecting Colorado",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-249-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 334,
+                    "bottom": 4744,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 4410
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Find a Job  Online Job Search\nOnline Job Search\nCareer H…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-252-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,3,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,3,P,1,STRONG,0,EM,0,A,0,SPAN",
+            "selector": "strong > em > a > span",
+            "boundingRect": {
+              "top": 4076,
+              "bottom": 4095,
+              "left": 39,
+              "right": 196,
+              "width": 157,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#009add;\">",
+            "nodeLabel": "Connecting Colorado",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-249-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 334,
+                    "bottom": 4744,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 4410
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Find a Job  Online Job Search\nOnline Job Search\nCareer H…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-253-EM",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,3,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,3,P,3,STRONG,0,A,0,SPAN,0,EM",
+            "selector": "strong > a > span > em",
+            "boundingRect": {
+              "top": 4220,
+              "bottom": 4263,
+              "left": 39,
+              "right": 334,
+              "width": 295,
+              "height": 43
+            },
+            "snippet": "<em>",
+            "nodeLabel": "The National Labor Exchange",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.15 (foreground color: #009add, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-249-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 334,
+                    "bottom": 4744,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 4410
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Find a Job  Online Job Search\nOnline Job Search\nCareer H…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 6
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-254-H3",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H3",
+            "selector": "div.paragraph__card > div.paragraph__column > div.paragraph__title > h3.mt-0",
+            "boundingRect": {
+              "top": 1150,
+              "bottom": 1189,
+              "left": 30,
+              "right": 382,
+              "width": 352,
+              "height": 39
+            },
+            "snippet": "<h3 class=\"mt-0 mb-0\">",
+            "nodeLabel": "WHERE TO START",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-255-H6",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,3,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DL,0,DT,1,A,0,H6",
+            "selector": "dl.styled > dt > a.ckeditor-accordion-toggler > h6",
+            "boundingRect": {
+              "top": 4544,
+              "bottom": 4598,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 54
+            },
+            "snippet": "<h6>",
+            "nodeLabel": "BENEFITS TO USING CONNECTING COLORADO",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

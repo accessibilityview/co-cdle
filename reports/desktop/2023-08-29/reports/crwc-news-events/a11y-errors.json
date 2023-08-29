@@ -1,0 +1,509 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-152-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,6,P,0,EM,0,SPAN",
+            "selector": "div.field > p > em > span",
+            "boundingRect": {
+              "top": 1017,
+              "bottom": 1036,
+              "left": 868,
+              "right": 1075,
+              "width": 208,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#999899;\">",
+            "nodeLabel": "You can also follow them on ",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.87 (foreground color: #999899, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "19-153-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 314,
+                    "bottom": 1751,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 1437
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Colorado Rural Workforce Consortium  CRWC News & Events\n…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-154-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,6,P,0,EM,5,SPAN",
+            "selector": "div.field > p > em > span",
+            "boundingRect": {
+              "top": 1041,
+              "bottom": 1060,
+              "left": 868,
+              "right": 894,
+              "width": 26,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#999899;\">",
+            "nodeLabel": "and",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.87 (foreground color: #999899, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "19-153-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 314,
+                    "bottom": 1751,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 1437
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Colorado Rural Workforce Consortium  CRWC News & Events\n…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-155-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,UL,0,LI,0,STRONG,0,A,0,SPAN",
+            "selector": "li > strong > a > span",
+            "boundingRect": {
+              "top": 1314,
+              "bottom": 1332,
+              "left": 417,
+              "right": 622,
+              "width": 205,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#328cc1;\">",
+            "nodeLabel": "WDB Meeting July 15, 2020",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.71 (foreground color: #328cc1, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "19-153-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 314,
+                    "bottom": 1751,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 1437
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Colorado Rural Workforce Consortium  CRWC News & Events\n…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-156-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,UL,1,LI,0,STRONG,0,A,0,SPAN",
+            "selector": "li > strong > a > span",
+            "boundingRect": {
+              "top": 1362,
+              "bottom": 1380,
+              "left": 417,
+              "right": 687,
+              "width": 271,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#328cc1;\">",
+            "nodeLabel": "The Colorado Talent Pipeline Report",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.71 (foreground color: #328cc1, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "19-153-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 314,
+                    "bottom": 1751,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 1437
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Colorado Rural Workforce Consortium  CRWC News & Events\n…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-157-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,UL,2,LI,0,STRONG,0,A,0,SPAN",
+            "selector": "li > strong > a > span",
+            "boundingRect": {
+              "top": 1410,
+              "bottom": 1428,
+              "left": 417,
+              "right": 672,
+              "width": 255,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#328cc1;\">",
+            "nodeLabel": "2019 Colorado Top Jobs By Region",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.71 (foreground color: #328cc1, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "19-153-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 314,
+                    "bottom": 1751,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 1437
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Colorado Rural Workforce Consortium  CRWC News & Events\n…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-158-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,UL,3,LI,0,STRONG,0,A,0,SPAN",
+            "selector": "li > strong > a > span",
+            "boundingRect": {
+              "top": 1458,
+              "bottom": 1476,
+              "left": 417,
+              "right": 602,
+              "width": 186,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#328cc1;\">",
+            "nodeLabel": "Board Priorities for 2019",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.71 (foreground color: #328cc1, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "19-153-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 314,
+                    "bottom": 1751,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 1437
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Colorado Rural Workforce Consortium  CRWC News & Events\n…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-159-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,UL,4,LI,0,STRONG,0,A,0,SPAN",
+            "selector": "li > strong > a > span",
+            "boundingRect": {
+              "top": 1530,
+              "bottom": 1548,
+              "left": 417,
+              "right": 761,
+              "width": 344,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#328cc1;\">",
+            "nodeLabel": "2019 Workforce Development Board Schedule",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.71 (foreground color: #328cc1, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "19-153-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 314,
+                    "bottom": 1751,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 1437
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Jobs & Training  Colorado Rural Workforce Consortium  CRWC News & Events\n…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 7
+  },
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more](https://web.dev/frame-title/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-160-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,P,0,IFRAME",
+            "selector": "div.field > div.calendar-container > p > iframe",
+            "boundingRect": {
+              "top": 1311,
+              "bottom": 1911,
+              "left": 868,
+              "right": 1668,
+              "width": 800,
+              "height": 600
+            },
+            "snippet": "<iframe frameborder=\"0\" height=\"600\" scrolling=\"no\" src=\"https://calendar.google.com/calendar/embed?src=state.co.us_md15488n0bafnhe…\" style=\"border: 0\" width=\"800\">",
+            "nodeLabel": "div.field > div.calendar-container > p > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag241",
+          "wcag412",
+          "section508",
+          "section508.22.i"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-161-H3",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,H3",
+            "selector": "div.paragraph__card > div.paragraph__column > div.paragraph__title > h3.mt-0",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 580,
+              "left": 859,
+              "right": 1320,
+              "width": 461,
+              "height": 85
+            },
+            "snippet": "<h3 class=\"mt-0 mb-0\">",
+            "nodeLabel": "CORONAVIRUS INFORMATION & RESOURCES",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-162-H6",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6",
+            "boundingRect": {
+              "top": 612,
+              "bottom": 679,
+              "left": 868,
+              "right": 1311,
+              "width": 443,
+              "height": 67
+            },
+            "snippet": "<h6>",
+            "nodeLabel": "INFORMATION AND RESOURCES ON CORONAVIRUS",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "image-alt",
+    "title": "Image elements do not have `[alt]` attributes",
+    "description": "Informative elements should aim for short, descriptive alternate text. Decorative elements can be ignored with an empty alt attribute. [Learn more](https://web.dev/image-alt/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-163-IMG",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,A,0,DIV,0,IMG",
+            "selector": "div.paragraph__column > a > div.field > img.img-responsive",
+            "boundingRect": {
+              "top": 495,
+              "bottom": 753,
+              "left": 368,
+              "right": 829,
+              "width": 461,
+              "height": 258
+            },
+            "snippet": "<img src=\"/sites/cdle/files/styles/image_card/public/covid-19.png\" width=\"1498\" height=\"838\" loading=\"lazy\" typeof=\"foaf:Image\" class=\"img-responsive\">",
+            "nodeLabel": "div.paragraph__column > a > div.field > img.img-responsive",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag111",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

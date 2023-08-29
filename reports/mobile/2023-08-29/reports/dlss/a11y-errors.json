@@ -1,0 +1,163 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-165-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,3,DIV,0,DIV,0,SECTION,0,DIV,0,DIV,0,DIV",
+            "selector": "section#block-contentfield > div#slick-node-landing-page-jumbo-custom-11086-1 > div.slick__slide > div.jumbo_image",
+            "boundingRect": {
+              "top": 334,
+              "bottom": 430,
+              "left": 0,
+              "right": 412,
+              "width": 412,
+              "height": 96
+            },
+            "snippet": "<div class=\"jumbo_image\" style=\"background-image: url(&quot;/sites/cdle/files/styles/flexslider_full/public/imag…&quot;);\" aria-label=\"Division of Labor Standards and Statistics Header Graphic\">",
+            "nodeLabel": "Division of Labor Standards and Statistics Header Graphic",
+            "explanation": "Fix all of the following:\n  aria-label attribute cannot be used on a div with no valid role attribute."
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-166-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,6,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,8,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div#tab-16096",
+            "boundingRect": {
+              "top": 5614,
+              "bottom": 5809,
+              "left": 15,
+              "right": 397,
+              "width": 382,
+              "height": 195
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--bp-tabs paragraph--view-mode--default paragraph…\" id=\"tab-16096\" aria-multiselectable=\"true\">",
+            "nodeLabel": "All Laws & Rules\nWage Theft Transparency Decisions\nPublic Employees' Social Sec…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "aria-valid-attr-value",
+    "title": "`[aria-*]` attributes do not have valid values",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid values. [Learn more](https://web.dev/aria-valid-attr-value/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-103-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,6,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,8,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li.active > a",
+            "boundingRect": {
+              "top": 5614,
+              "bottom": 5660,
+              "left": 15,
+              "right": 164,
+              "width": 149,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-16096-1\" aria-controls=\"All Laws &amp; Rules\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "All Laws & Rules",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"All Laws & Rules\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-104-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,6,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,8,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 5659,
+              "bottom": 5705,
+              "left": 15,
+              "right": 298,
+              "width": 283,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-16096-2\" aria-controls=\"Wage Theft Transparency Decisions\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Wage Theft Transparency Decisions",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Wage Theft Transparency Decisions\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-105-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,6,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,8,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 5704,
+              "bottom": 5750,
+              "left": 15,
+              "right": 333,
+              "width": 318,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-16096-3\" aria-controls=\"Public Employees' Social Security (PESS)\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Public Employees' Social Security (PESS)",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Public Employees' Social Security (PESS)\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 3
+  }
+]

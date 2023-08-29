@@ -1,0 +1,401 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-276-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,16,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div#tab-16631",
+            "boundingRect": {
+              "top": 8614,
+              "bottom": 9412,
+              "left": 30,
+              "right": 382,
+              "width": 352,
+              "height": 798
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--bp-tabs paragraph--view-mode--default paragraph…\" id=\"tab-16631\" aria-multiselectable=\"true\">",
+            "nodeLabel": "2022 Quarterly Prosecutions\n2021 Quarterly Prosecutions\n2020 Quarterly Prosecut…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-valid-attr-value",
+    "title": "`[aria-*]` attributes do not have valid values",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid values. [Learn more](https://web.dev/aria-valid-attr-value/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-195-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,16,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li.active > a",
+            "boundingRect": {
+              "top": 8614,
+              "bottom": 8660,
+              "left": 30,
+              "right": 263,
+              "width": 233,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-16631-1\" aria-controls=\" 2022 Quarterly Prosecutions\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "2022 Quarterly Prosecutions",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\" 2022 Quarterly Prosecutions\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-196-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,16,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 8659,
+              "bottom": 8705,
+              "left": 30,
+              "right": 263,
+              "width": 233,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-16631-2\" aria-controls=\" 2021 Quarterly Prosecutions\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "2021 Quarterly Prosecutions",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\" 2021 Quarterly Prosecutions\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-197-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,16,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 8704,
+              "bottom": 8750,
+              "left": 30,
+              "right": 263,
+              "width": 233,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-16631-3\" aria-controls=\"2020 Quarterly Prosecutions\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "2020 Quarterly Prosecutions",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"2020 Quarterly Prosecutions\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-198-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,16,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,3,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 8749,
+              "bottom": 8795,
+              "left": 30,
+              "right": 263,
+              "width": 233,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-16631-4\" aria-controls=\"2019 Quarterly Prosecutions\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "2019 Quarterly Prosecutions",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"2019 Quarterly Prosecutions\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-199-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,16,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,4,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 8794,
+              "bottom": 8840,
+              "left": 30,
+              "right": 263,
+              "width": 233,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-16631-5\" aria-controls=\"2018 Quarterly Prosecutions\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "2018 Quarterly Prosecutions",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"2018 Quarterly Prosecutions\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 5
+  },
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more](https://web.dev/frame-title/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-277-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,6,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 4596,
+              "bottom": 4784,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 188
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/3ukPvFnQrhM?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-278-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,6,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 4843,
+              "bottom": 5031,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 188
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/MRDDwofnC4w?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-279-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,12,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 6905,
+              "bottom": 7093,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 188
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/PqB1UUwWa6k?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-280-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,12,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 7152,
+              "bottom": 7340,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 188
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/yMU1l_p5x6Y?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag241",
+          "wcag412",
+          "section508",
+          "section508.22.i"
+        ]
+      }
+    },
+    "errorCount": 4
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-281-H6",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,11,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6",
+            "boundingRect": {
+              "top": 6339,
+              "bottom": 6356,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 17
+            },
+            "snippet": "<h6>",
+            "nodeLabel": "Did you receive a SIDES Request?",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "37-180-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,11,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,A",
+            "selector": "div.icon-card-top > div.paragraph__card > div.paragraph__column > a.paragraph__card--icon-link",
+            "boundingRect": {
+              "top": 6778,
+              "bottom": 6880,
+              "left": 30,
+              "right": 382,
+              "width": 352,
+              "height": 102
+            },
+            "snippet": "<a class=\"paragraph__card--icon-link\" href=\"\">",
+            "nodeLabel": "div.icon-card-top > div.paragraph__card > div.paragraph__column > a.paragraph__card--icon-link",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

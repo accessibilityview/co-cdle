@@ -1,0 +1,290 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-220-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div#tab-11096",
+            "boundingRect": {
+              "top": 1706,
+              "bottom": 2097,
+              "left": 15,
+              "right": 1335,
+              "width": 1320,
+              "height": 391
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--bp-tabs paragraph--view-mode--default paragraph…\" id=\"tab-11096\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Contact Us\nEmployers\nInjured Workers\nInsurers\nMedical Providers\nAttorneys\nResou…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-valid-attr-value",
+    "title": "`[aria-*]` attributes do not have valid values",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid values. [Learn more](https://web.dev/aria-valid-attr-value/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-95-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li.active > a",
+            "boundingRect": {
+              "top": 1706,
+              "bottom": 1752,
+              "left": 15,
+              "right": 125,
+              "width": 110,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-11096-1\" aria-controls=\"Contact Us\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Contact Us",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Contact Us\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-96-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1706,
+              "bottom": 1752,
+              "left": 127,
+              "right": 232,
+              "width": 105,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-11096-2\" aria-controls=\"Employers\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Employers",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Employers\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-97-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1706,
+              "bottom": 1752,
+              "left": 234,
+              "right": 380,
+              "width": 146,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-11096-3\" aria-controls=\"Injured Workers\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Injured Workers",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Injured Workers\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-98-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,3,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1706,
+              "bottom": 1752,
+              "left": 382,
+              "right": 470,
+              "width": 88,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-11096-4\" aria-controls=\"Insurers\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Insurers",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Insurers\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-99-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,4,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1706,
+              "bottom": 1752,
+              "left": 472,
+              "right": 629,
+              "width": 157,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-11096-5\" aria-controls=\"Medical Providers\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Medical Providers",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Medical Providers\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-100-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,5,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1706,
+              "bottom": 1752,
+              "left": 631,
+              "right": 732,
+              "width": 101,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-11096-6\" aria-controls=\"Attorneys\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Attorneys",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Attorneys\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-101-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,6,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1706,
+              "bottom": 1752,
+              "left": 734,
+              "right": 836,
+              "width": 103,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-11096-7\" aria-controls=\"Resources\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Resources",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Resources\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 7
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-221-H3",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H3",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h3",
+            "boundingRect": {
+              "top": 668,
+              "bottom": 720,
+              "left": 24,
+              "right": 651,
+              "width": 627,
+              "height": 53
+            },
+            "snippet": "<h3>",
+            "nodeLabel": "What is Workers' Compensation?",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-222-H5",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H5",
+            "selector": "div.paragraph__column > div.field > div.field > h5",
+            "boundingRect": {
+              "top": 1764,
+              "bottom": 1804,
+              "left": 33,
+              "right": 1317,
+              "width": 1284,
+              "height": 41
+            },
+            "snippet": "<h5>",
+            "nodeLabel": "Contact Us",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

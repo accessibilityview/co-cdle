@@ -1,0 +1,802 @@
+[
+  {
+    "path": "/",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us",
+    "score": 0.94
+  },
+  {
+    "path": "/about-us-1",
+    "score": 0.85
+  },
+  {
+    "path": "/about-us/customer-base",
+    "score": 0.94
+  },
+  {
+    "path": "/about-us/history",
+    "score": 0.94
+  },
+  {
+    "path": "/about-us/mission-legal-authority",
+    "score": 0.94
+  },
+  {
+    "path": "/about-us/what-is-a-section-218-agreement",
+    "score": 0.94
+  },
+  {
+    "path": "/accessibility-0",
+    "score": 0.94
+  },
+  {
+    "path": "/additional-information-about-division-authority",
+    "score": 0.94
+  },
+  {
+    "path": "/address-change",
+    "score": 0.91
+  },
+  {
+    "path": "/adm-administrative-requirements-policy-guidance-letters",
+    "score": 0.93
+  },
+  {
+    "path": "/agricultural-labor-rights-and-responsibilities",
+    "score": 0.94
+  },
+  {
+    "path": "/application-unavailable-due-to-maintenance",
+    "score": 0.94
+  },
+  {
+    "path": "/apprenticeship-training",
+    "score": 0.91
+  },
+  {
+    "path": "/assistance-programs",
+    "score": 0.91
+  },
+  {
+    "path": "/attorneys/prehearings-and-settlements",
+    "score": 0.92
+  },
+  {
+    "path": "/attorneys/unrepresented-pro-se-claimants",
+    "score": 0.92
+  },
+  {
+    "path": "/attorneys/workers-compensation-proposed-and-adopted-rules",
+    "score": 0.94
+  },
+  {
+    "path": "/audio-recording-of-imes",
+    "score": 0.93
+  },
+  {
+    "path": "/beginning-rates",
+    "score": 0.89
+  },
+  {
+    "path": "/blog-post/922021-end-of-federal-benefits-eligible-claimants-will-receive-back-pay",
+    "score": 0.94
+  },
+  {
+    "path": "/blog-post/932021-you-may-have-been-paid-meuc-benefits-in-error",
+    "score": 0.94
+  },
+  {
+    "path": "/blog-post/ui-weekly-update-4212021-idme-update-jobs-and-more",
+    "score": 0.93
+  },
+  {
+    "path": "/blog-post/ui-weekly-update-4232021-be-on-the-lookout-for-scams-attempting-to-steal-your-information",
+    "score": 0.94
+  },
+  {
+    "path": "/blog-post/update-6182021-protect-yourself-against-scams-and-phishing-attack",
+    "score": 0.93
+  },
+  {
+    "path": "/businesses-and-employers-test-12345",
+    "score": 0.89
+  },
+  {
+    "path": "/businesses-employers",
+    "score": 0.89
+  },
+  {
+    "path": "/career-earnings-by-education",
+    "score": 0.92
+  },
+  {
+    "path": "/careers-at-cdle",
+    "score": 0.94
+  },
+  {
+    "path": "/case-law-updates",
+    "score": 0.94
+  },
+  {
+    "path": "/cms-overview",
+    "score": 0.94
+  },
+  {
+    "path": "/colorado-health-emergency-leave-with-pay-colorado-help-rules-march-11-july-14-2020",
+    "score": 0.94
+  },
+  {
+    "path": "/colorado-overtime-minimum-pay-standards-comps-order",
+    "score": 0.94
+  },
+  {
+    "path": "/colorado-rural-workforce-consortium/committees",
+    "score": 0.92
+  },
+  {
+    "path": "/colorado-rural-workforce-consortium/join-our-board",
+    "score": 0.94
+  },
+  {
+    "path": "/colorado-rural-workforce-consortium/local-subarea-workforce-development-boards",
+    "score": 0.92
+  },
+  {
+    "path": "/colorado-rural-workforce-consortium/tools-resources",
+    "score": 0.94
+  },
+  {
+    "path": "/complaint",
+    "score": 0.94
+  },
+  {
+    "path": "/consortium-board",
+    "score": 0.94
+  },
+  {
+    "path": "/contact-industrial-claim-appeals-office",
+    "score": 0.94
+  },
+  {
+    "path": "/contact-us",
+    "score": 0.92
+  },
+  {
+    "path": "/contact-us-dlss",
+    "score": 0.94
+  },
+  {
+    "path": "/cora",
+    "score": 0.94
+  },
+  {
+    "path": "/crwc-executive-committee-wioa",
+    "score": 0.94
+  },
+  {
+    "path": "/crwc-news-events",
+    "score": 0.85
+  },
+  {
+    "path": "/crwc-youth-services-wioa",
+    "score": 0.93
+  },
+  {
+    "path": "/debit-card-fees",
+    "score": 0.91
+  },
+  {
+    "path": "/decisions-appeals-information",
+    "score": 0.94
+  },
+  {
+    "path": "/digitalinclusion",
+    "score": 0.91
+  },
+  {
+    "path": "/directcare",
+    "score": 0.94
+  },
+  {
+    "path": "/directors-interpretive-bulletins-non-fee-schedule-related-issues",
+    "score": 0.93
+  },
+  {
+    "path": "/division-authority-and-coverage",
+    "score": 0.93
+  },
+  {
+    "path": "/dlss",
+    "score": 0.87
+  },
+  {
+    "path": "/dlss/espanol",
+    "score": 0.9
+  },
+  {
+    "path": "/dlsscareers",
+    "score": 0.92
+  },
+  {
+    "path": "/dowc-updates",
+    "score": 0.92
+  },
+  {
+    "path": "/dwc",
+    "score": 0.88
+  },
+  {
+    "path": "/dwc/attorneys",
+    "score": 0.91
+  },
+  {
+    "path": "/dwc/coverageresources",
+    "score": 0.92
+  },
+  {
+    "path": "/dwc/dime",
+    "score": 0.92
+  },
+  {
+    "path": "/dwc/medical-providers",
+    "score": 0.9
+  },
+  {
+    "path": "/dwc/qpop",
+    "score": 0.92
+  },
+  {
+    "path": "/eligibility-and-work-search-requirements",
+    "score": 0.9
+  },
+  {
+    "path": "/employer-email",
+    "score": 0.91
+  },
+  {
+    "path": "/employer-liability-chart",
+    "score": 0.93
+  },
+  {
+    "path": "/employer-rate-notices-delayed-to-december-2021",
+    "score": 0.92
+  },
+  {
+    "path": "/employer-webinar-videos",
+    "score": 0.92
+  },
+  {
+    "path": "/employer/faqs",
+    "score": 0.92
+  },
+  {
+    "path": "/employers",
+    "score": 0.91
+  },
+  {
+    "path": "/employers/audits/audit-process",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/audits/audits-faq",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/audits/ensure-proper-worker-classification",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/audits/state-unemployment-tax-act-dumping-suta",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/audits/worker-misclassification-reporting-advisory-opinions",
+    "score": 0.93
+  },
+  {
+    "path": "/employers/designating-a-medical-provider",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/garnishment-requests",
+    "score": 0.94
+  },
+  {
+    "path": "/employers/incentives-tax-credits",
+    "score": 0.93
+  },
+  {
+    "path": "/employers/incentives-tax-credits/federal-bonding",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/insurance-coverage",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/layoff-separations/layoff-warn-list",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/layoff-separations/worker-adjustment-retraining-notification",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/layoff/separations",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/pay-premiums-and-report-wages/help-stop-higher-premium-rates",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/pay-premiums-and-report-wages/pay-premiums-and-report-wages-faq",
+    "score": 0.9
+  },
+  {
+    "path": "/employers/pay-premiums-and-report-wages/premium-rates",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/pay-premiums-and-report-wages/premium-rates-and-claims-for-benefits",
+    "score": 0.93
+  },
+  {
+    "path": "/employers/pay-premiums-and-report-wages/premiums",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/recruiting-hiring/hiring-a-veteran",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/recruiting-hiring/new-employer-checklist",
+    "score": 0.9
+  },
+  {
+    "path": "/employers/recruiting-hiring/planning-strategic-development",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/recruiting-hiring/planning-strategic-development/foreign-labor-certification",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/recruiting-hiring/planning-strategic-development/internships",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/recruiting-hiring/recruiting-screening",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/recruiting-hiring/recruiting-screening/assessments",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/recruiting-hiring/recruiting-screening/hiring-events",
+    "score": 0.92
+  },
+  {
+    "path": "/employers/starting-a-business",
+    "score": 0.92
+  },
+  {
+    "path": "/energy-careers",
+    "score": 0.83
+  },
+  {
+    "path": "/equal-opportunity",
+    "score": 0.94
+  },
+  {
+    "path": "/equalpaytransparency",
+    "score": 0.94
+  },
+  {
+    "path": "/events/just-transition-advisory-committee-jtac-meeting",
+    "score": 0.94
+  },
+  {
+    "path": "/events/just-transition-advisory-committee-jtac-meeting-0",
+    "score": 0.93
+  },
+  {
+    "path": "/events/just-transition-advisory-committee-jtac-meeting-1",
+    "score": 0.94
+  },
+  {
+    "path": "/events/just-transition-advisory-committee-jtac-meeting-2",
+    "score": 0.94
+  },
+  {
+    "path": "/events/just-transition-advisory-committee-jtac-meeting-3",
+    "score": 0.94
+  },
+  {
+    "path": "/famli",
+    "score": 0.92
+  },
+  {
+    "path": "/faqs-for-workers-compensation-appeals",
+    "score": 0.91
+  },
+  {
+    "path": "/fed-contract-compliant",
+    "score": 0.92
+  },
+  {
+    "path": "/filing-a-complaint",
+    "score": 0.94
+  },
+  {
+    "path": "/food-assistance",
+    "score": 0.91
+  },
+  {
+    "path": "/forms-and-publications",
+    "score": 0.92
+  },
+  {
+    "path": "/fraud-prevention",
+    "score": 0.88
+  },
+  {
+    "path": "/frequently-asked-questions",
+    "score": 0.92
+  },
+  {
+    "path": "/ftp",
+    "score": 0.91
+  },
+  {
+    "path": "/future-of-work",
+    "score": 0.91
+  },
+  {
+    "path": "/gen-general-policy-guidance-letters",
+    "score": 0.94
+  },
+  {
+    "path": "/give-us-your-feedback",
+    "score": 0.88
+  },
+  {
+    "path": "/grt-grants-discretionary-policy-guidance-letters",
+    "score": 0.93
+  },
+  {
+    "path": "/health-assistance-programs",
+    "score": 0.92
+  },
+  {
+    "path": "/healthcare",
+    "score": 0.92
+  },
+  {
+    "path": "/healthstaffing",
+    "score": 0.94
+  },
+  {
+    "path": "/help-finding-employment",
+    "score": 0.91
+  },
+  {
+    "path": "/help-us-shape-the-future-of-dvr",
+    "score": 0.92
+  },
+  {
+    "path": "/helpful-information-and-resources",
+    "score": 0.94
+  },
+  {
+    "path": "/hfwa",
+    "score": 0.94
+  },
+  {
+    "path": "/hike",
+    "score": 0.92
+  },
+  {
+    "path": "/home",
+    "score": 0.91
+  },
+  {
+    "path": "/housing-and-utilities-assistance",
+    "score": 0.92
+  },
+  {
+    "path": "/how-to-register-with-connecting-colorado",
+    "score": 0.92
+  },
+  {
+    "path": "/how-to-videos",
+    "score": 0.91
+  },
+  {
+    "path": "/icao-administrative-law-judges-0",
+    "score": 0.93
+  },
+  {
+    "path": "/icaowc",
+    "score": 0.93
+  },
+  {
+    "path": "/impairment-rating-information",
+    "score": 0.93
+  },
+  {
+    "path": "/independent-contractors",
+    "score": 0.92
+  },
+  {
+    "path": "/information-and-resources/faqs-and-terminology",
+    "score": 0.94
+  },
+  {
+    "path": "/information-and-resources/helpful-links",
+    "score": 0.94
+  },
+  {
+    "path": "/infos",
+    "score": 0.89
+  },
+  {
+    "path": "/injured-worker-exit-surveys-change-of-physician-surveys",
+    "score": 0.94
+  },
+  {
+    "path": "/injured-workers/colorado-uninsured-employer-fund",
+    "score": 0.94
+  },
+  {
+    "path": "/injured-workers/get-medical-care",
+    "score": 0.91
+  },
+  {
+    "path": "/injured-workers/reporting-your-injury",
+    "score": 0.91
+  },
+  {
+    "path": "/injured-workers/resolve-or-reopen-your-claim",
+    "score": 0.92
+  },
+  {
+    "path": "/injured-workers/understand-potential-benefits",
+    "score": 0.92
+  },
+  {
+    "path": "/insurers/medical-utilization-review",
+    "score": 0.92
+  },
+  {
+    "path": "/insurers/online-filing-of-first-reports",
+    "score": 0.92
+  },
+  {
+    "path": "/insurers/surcharge-collection",
+    "score": 0.92
+  },
+  {
+    "path": "/interpretive-notice-formal-opinion-info-8",
+    "score": 0.93
+  },
+  {
+    "path": "/introduction-and-instructions-to-labor-peace-act-petitions",
+    "score": 0.94
+  },
+  {
+    "path": "/jobs-training",
+    "score": 0.89
+  },
+  {
+    "path": "/jobs-training/career-help",
+    "score": 0.91
+  },
+  {
+    "path": "/jobs-training/career-help/skills-assessment",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/career-help/skills-assessment/career-ready-certificate",
+    "score": 0.91
+  },
+  {
+    "path": "/jobs-training/colorado-rural-workforce-consortium-crwc",
+    "score": 0.91
+  },
+  {
+    "path": "/jobs-training/colorado-rural-workforce-consortium/rural-workforce-consortium-board",
+    "score": 0.94
+  },
+  {
+    "path": "/jobs-training/find-a-job",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/find-a-job/job-fairs/events",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/find-a-job/migrant-seasonal-farmworkers",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/find-a-job/networking",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/find-a-job/online-job-search",
+    "score": 0.91
+  },
+  {
+    "path": "/jobs-training/find-a-job/programs-opportunities",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/find-a-job/resume-guidance",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/training/educational-programs-training",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/training/pell-grant",
+    "score": 0.91
+  },
+  {
+    "path": "/jobs-training/veterans",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/veterans/veteran-priority",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/workforce-partners-resources/state-plans-reports-and-training",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/workforce-partners-resources/training-providers-wioa-youth",
+    "score": 0.91
+  },
+  {
+    "path": "/jobs-training/workforce-partners-resources/virtual-job-fairs-events",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/youth",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/youth/gsjh",
+    "score": 0.92
+  },
+  {
+    "path": "/jobs-training/youth/training-for-youth",
+    "score": 0.92
+  },
+  {
+    "path": "/jobseeker-training",
+    "score": 0.92
+  },
+  {
+    "path": "/just-transition-advisory-committee-jtac-quarterly-virtual-meeting",
+    "score": 0.94
+  },
+  {
+    "path": "/just-transition-blog-post/coal-transition-worker-update-june-2023",
+    "score": 0.94
+  },
+  {
+    "path": "/just-transition-blog-post/public-policy-update-june-2023",
+    "score": 0.94
+  },
+  {
+    "path": "/la-igualdad-de-oportunidad-es-la-ley",
+    "score": 0.94
+  },
+  {
+    "path": "/labor-law-stats/pess-public-employees-social-security",
+    "score": 0.89
+  },
+  {
+    "path": "/labor-library-agricultural-labor-rights-and-responsibilities",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-appeals",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-chance-to-compete",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-chance-to-compete-0",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-complaint-forms",
+    "score": 0.91
+  },
+  {
+    "path": "/labor-library-comps-order",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-constitution-article-xviii-section-15",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-direct-investigations",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-dlss-rules",
+    "score": 0.91
+  },
+  {
+    "path": "/labor-library-employment-opportunity-act",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-employment-verification",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-equal-pay",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-general-wage-and-abs",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-help-emergency-rule-covid-19",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-infos",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-kjica",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-labor-unions",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-mock-up-1",
+    "score": 0.94
+  },
+  {
+    "path": "/labor-library-mock-up-2",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-nursing-mothers",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-posters",
+    "score": 0.92
+  },
+  {
+    "path": "/labor-library-prevailing-wages",
+    "score": 0.92
+  },
+  {
+    "path": "/OFWteam",
+    "score": 0.91
+  },
+  {
+    "path": "/Unemployment-Espanol",
+    "score": 0.9
+  }
+]

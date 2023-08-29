@@ -1,0 +1,171 @@
+[
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more](https://web.dev/frame-title/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "55-133-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 649,
+              "bottom": 994,
+              "left": 39,
+              "right": 651,
+              "width": 612,
+              "height": 344
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/3ukPvFnQrhM?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "55-134-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 649,
+              "bottom": 994,
+              "left": 699,
+              "right": 1311,
+              "width": 612,
+              "height": 344
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/PqB1UUwWa6k?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "55-135-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 1118,
+              "bottom": 1462,
+              "left": 39,
+              "right": 651,
+              "width": 612,
+              "height": 344
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/Y77O8X-PLME?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "55-136-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 1118,
+              "bottom": 1462,
+              "left": 699,
+              "right": 1311,
+              "width": 612,
+              "height": 344
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/kDGV4YkkmqE?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "55-137-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 1562,
+              "bottom": 1906,
+              "left": 39,
+              "right": 651,
+              "width": 612,
+              "height": 344
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/pzUpt5VNWY0?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "55-138-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 1562,
+              "bottom": 1906,
+              "left": 699,
+              "right": 1311,
+              "width": 612,
+              "height": 344
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/5M-pRC5lGhQ?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "55-139-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,3,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "boundingRect": {
+              "top": 2030,
+              "bottom": 2746,
+              "left": 39,
+              "right": 1311,
+              "width": 1272,
+              "height": 716
+            },
+            "snippet": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/PupenQK_dZ4?autoplay=0&amp;start=0&amp;rel=0\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.video-embed-field-provider-youtube > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag241",
+          "wcag412",
+          "section508",
+          "section508.22.i"
+        ]
+      }
+    },
+    "errorCount": 7
+  }
+]
