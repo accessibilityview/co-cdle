@@ -1,0 +1,6001 @@
+[
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "OFWteam",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "Unemployment-Espanol",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "accessibility-0",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "additional-information-about-division-authority",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "application-unavailable-due-to-maintenance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "adm-administrative-requirements-policy-guidance-letters",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us-1",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "address-change",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apprenticeship-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "agricultural-labor-rights-and-responsibilities",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assistance-programs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "audio-recording-of-imes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "beginning-rates",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "businesses-and-employers-test-12345",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "careers-at-cdle",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "businesses-employers",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 10
+      }
+    ],
+    "lighthouseErrorCount": 11,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 10
+      }
+    ],
+    "wcagErrorCount": 11
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "career-earnings-by-education",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cms-overview",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-overtime-minimum-pay-standards-comps-order",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "case-law-updates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "complaint",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-health-emergency-leave-with-pay-colorado-help-rules-march-11-july-14-2020",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "contact-industrial-claim-appeals-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "consortium-board",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "contact-us",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "contact-us-dlss",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "crwc-executive-committee-wioa",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cora",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "debit-card-fees",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "crwc-youth-services-wioa",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "digitalinclusion",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "decisions-appeals-information",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "directcare",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "crwc-news-events",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 7
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 11,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 7
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 10
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "division-authority-and-coverage",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "directors-interpretive-bulletins-non-fee-schedule-related-issues",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dlsscareers",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dlss",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 5
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dowc-updates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "eligibility-and-work-search-requirements",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 3
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 6
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employer-liability-chart",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dwc",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 7
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 10,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 7
+      }
+    ],
+    "wcagErrorCount": 8
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employer-email",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employer-rate-notices-delayed-to-december-2021",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employer-webinar-videos",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "energy-careers",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 5
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 7,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 5
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 5
+      },
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 11
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "equalpaytransparency",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "famli",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "faqs-for-workers-compensation-appeals",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fed-contract-compliant",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "filing-a-complaint",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "food-assistance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "forms-and-publications",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fraud-prevention",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 5
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 4
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 12,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 5
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 4
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 4
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 16
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "future-of-work",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "equal-opportunity",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "ftp",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "gen-general-policy-guidance-letters",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "frequently-asked-questions",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "give-us-your-feedback",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 8
+      }
+    ],
+    "lighthouseErrorCount": 9,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 8
+      }
+    ],
+    "wcagErrorCount": 9
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "grt-grants-discretionary-policy-guidance-letters",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "health-assistance-programs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "healthstaffing",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "help-us-shape-the-future-of-dvr",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hfwa",
+    "lighthouseErrors": [
+      {
+        "id": "valid-lang",
+        "wcag": [
+          "3.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "3.1.2",
+        "lighthouse": "valid-lang",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "help-finding-employment",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hike",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "helpful-information-and-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "how-to-register-with-connecting-colorado",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "how-to-videos",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 7
+      }
+    ],
+    "lighthouseErrorCount": 7,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 7
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 7
+      }
+    ],
+    "wcagErrorCount": 14
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "healthcare",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-and-utilities-assistance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "icao-administrative-law-judges-0",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "icaowc",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "independent-contractors",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "infos",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 2
+      },
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 5
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "injured-worker-exit-surveys-change-of-physician-surveys",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "interpretive-notice-formal-opinion-info-8",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 8
+      }
+    ],
+    "lighthouseErrorCount": 8,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 8
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 8
+      }
+    ],
+    "wcagErrorCount": 16
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobseeker-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 6
+      }
+    ],
+    "lighthouseErrorCount": 7,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 6
+      }
+    ],
+    "wcagErrorCount": 7
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "introduction-and-instructions-to-labor-peace-act-petitions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "impairment-rating-information",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "just-transition-advisory-committee-jtac-quarterly-virtual-meeting",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "la-igualdad-de-oportunidad-es-la-ley",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-appeals",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-agricultural-labor-rights-and-responsibilities",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-chance-to-compete",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-chance-to-compete-0",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-comps-order",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-complaint-forms",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-constitution-article-xviii-section-15",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-dlss-rules",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-employment-opportunity-act",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-direct-investigations",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-equal-pay",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-employment-verification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-infos",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-help-emergency-rule-covid-19",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-general-wage-and-abs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-labor-unions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-mock-up-1",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-posters",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-mock-up-2",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-kjica",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-nursing-mothers",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-library-prevailing-wages",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "OFWteam",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "Unemployment-Espanol",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "button-name",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 6,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 3
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "button-name",
+        "errorCount": 1
+      },
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 6
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "accessibility-0",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "address-change",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "additional-information-about-division-authority",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "agricultural-labor-rights-and-responsibilities",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "adm-administrative-requirements-policy-guidance-letters",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "application-unavailable-due-to-maintenance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us-1",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "apprenticeship-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "assistance-programs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "audio-recording-of-imes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "beginning-rates",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "businesses-employers",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 10
+      }
+    ],
+    "lighthouseErrorCount": 11,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 10
+      }
+    ],
+    "wcagErrorCount": 11
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "businesses-and-employers-test-12345",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "career-earnings-by-education",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cms-overview",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "careers-at-cdle",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "case-law-updates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-health-emergency-leave-with-pay-colorado-help-rules-march-11-july-14-2020",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "complaint",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "consortium-board",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-overtime-minimum-pay-standards-comps-order",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "contact-us",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "contact-industrial-claim-appeals-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "contact-us-dlss",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cora",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "crwc-executive-committee-wioa",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "crwc-news-events",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 7
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 11,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 7
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 10
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "debit-card-fees",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "crwc-youth-services-wioa",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "digitalinclusion",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "decisions-appeals-information",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "directcare",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "directors-interpretive-bulletins-non-fee-schedule-related-issues",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "division-authority-and-coverage",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dlss",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 5
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dlsscareers",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "eligibility-and-work-search-requirements",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 3
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 6
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dowc-updates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dwc",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 7
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 10,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 7
+      }
+    ],
+    "wcagErrorCount": 8
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employer-rate-notices-delayed-to-december-2021",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employer-liability-chart",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employer-webinar-videos",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "energy-careers",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 5
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 7,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 5
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 5
+      },
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 11
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employer-email",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "equal-opportunity",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "famli",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "faqs-for-workers-compensation-appeals",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "food-assistance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fed-contract-compliant",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fraud-prevention",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 5
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 4
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 12,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 5
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 4
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 4
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 16
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "filing-a-complaint",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "forms-and-publications",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "equalpaytransparency",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "frequently-asked-questions",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "ftp",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "give-us-your-feedback",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 8
+      }
+    ],
+    "lighthouseErrorCount": 9,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 8
+      }
+    ],
+    "wcagErrorCount": 9
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "future-of-work",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "grt-grants-discretionary-policy-guidance-letters",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "healthstaffing",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "healthcare",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "help-finding-employment",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "help-us-shape-the-future-of-dvr",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "health-assistance-programs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "gen-general-policy-guidance-letters",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "helpful-information-and-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hfwa",
+    "lighthouseErrors": [
+      {
+        "id": "valid-lang",
+        "wcag": [
+          "3.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "3.1.2",
+        "lighthouse": "valid-lang",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hike",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "how-to-register-with-connecting-colorado",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "icao-administrative-law-judges-0",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-and-utilities-assistance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "impairment-rating-information",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "how-to-videos",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 7
+      }
+    ],
+    "lighthouseErrorCount": 7,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 7
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 7
+      }
+    ],
+    "wcagErrorCount": 14
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "icaowc",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "independent-contractors",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "injured-worker-exit-surveys-change-of-physician-surveys",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "introduction-and-instructions-to-labor-peace-act-petitions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "interpretive-notice-formal-opinion-info-8",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 8
+      }
+    ],
+    "lighthouseErrorCount": 8,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 8
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 8
+      }
+    ],
+    "wcagErrorCount": 16
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 6
+      }
+    ],
+    "lighthouseErrorCount": 7,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 6
+      }
+    ],
+    "wcagErrorCount": 7
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "just-transition-advisory-committee-jtac-quarterly-virtual-meeting",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobseeker-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "infos",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 2
+      },
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 5
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "la-igualdad-de-oportunidad-es-la-ley",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-appeals",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-chance-to-compete",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-complaint-forms",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-chance-to-compete-0",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-agricultural-labor-rights-and-responsibilities",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-comps-order",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-dlss-rules",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-direct-investigations",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-constitution-article-xviii-section-15",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-employment-opportunity-act",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-equal-pay",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-infos",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-employment-verification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-help-emergency-rule-covid-19",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-general-wage-and-abs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-kjica",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-labor-unions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-mock-up-1",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-nursing-mothers",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-posters",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-mock-up-2",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-library-prevailing-wages",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us/customer-base",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us/mission-legal-authority",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us/what-is-a-section-218-agreement",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us/history",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "attorneys/unrepresented-pro-se-claimants",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "attorneys/prehearings-and-settlements",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "attorneys/workers-compensation-proposed-and-adopted-rules",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "blog-post/932021-you-may-have-been-paid-meuc-benefits-in-error",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "blog-post/922021-end-of-federal-benefits-eligible-claimants-will-receive-back-pay",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "blog-post/ui-weekly-update-4212021-idme-update-jobs-and-more",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "blog-post/ui-weekly-update-4232021-be-on-the-lookout-for-scams-attempting-to-steal-your-information",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "blog-post/update-6182021-protect-yourself-against-scams-and-phishing-attack",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-rural-workforce-consortium/join-our-board",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-rural-workforce-consortium/committees",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-rural-workforce-consortium/local-subarea-workforce-development-boards",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-rural-workforce-consortium/tools-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dlss/espanol",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 6
+      }
+    ],
+    "lighthouseErrorCount": 7,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 6
+      }
+    ],
+    "wcagErrorCount": 7
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employer/faqs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dwc/attorneys",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dwc/coverageresources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dwc/dime",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dwc/qpop",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dwc/medical-providers",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/garnishment-requests",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/incentives-tax-credits",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/insurance-coverage",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/designating-a-medical-provider",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/starting-a-business",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/just-transition-advisory-committee-jtac-meeting-2",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/just-transition-advisory-committee-jtac-meeting",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/just-transition-advisory-committee-jtac-meeting-0",
+    "lighthouseErrors": [
+      {
+        "id": "tabindex",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/just-transition-advisory-committee-jtac-meeting-1",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/just-transition-advisory-committee-jtac-meeting-3",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "information-and-resources/faqs-and-terminology",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "information-and-resources/helpful-links",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "injured-workers/get-medical-care",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "injured-workers/colorado-uninsured-employer-fund",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "injured-workers/understand-potential-benefits",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "injured-workers/reporting-your-injury",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "injured-workers/resolve-or-reopen-your-claim",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "insurers/medical-utilization-review",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "insurers/online-filing-of-first-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "insurers/surcharge-collection",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/career-help",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 4
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 4
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/colorado-rural-workforce-consortium-crwc",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/veterans",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "just-transition-blog-post/public-policy-update-june-2023",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "just-transition-blog-post/coal-transition-worker-update-june-2023",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "labor-law-stats/pess-public-employees-social-security",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/youth",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us/customer-base",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us/what-is-a-section-218-agreement",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us/history",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us/mission-legal-authority",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "attorneys/unrepresented-pro-se-claimants",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "attorneys/workers-compensation-proposed-and-adopted-rules",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "attorneys/prehearings-and-settlements",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "blog-post/932021-you-may-have-been-paid-meuc-benefits-in-error",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "blog-post/ui-weekly-update-622021-emergency-rental-assistance-and-more",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "blog-post/update-8192021-myui-account-security-enhancements-launching-soon",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "blog-post/update-8302021-your-federal-benefits-are-ending-more-than-120k-jobs-available-now",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "blog-post/update-842021-august-15-deadline-for-low-cost-health-insurance-enrollment",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-rural-workforce-consortium/join-our-board",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-rural-workforce-consortium/committees",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-rural-workforce-consortium/local-subarea-workforce-development-boards",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-rural-workforce-consortium/tools-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dlss/espanol",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 6
+      }
+    ],
+    "lighthouseErrorCount": 7,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 6
+      }
+    ],
+    "wcagErrorCount": 7
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employer/faqs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dwc/attorneys",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dwc/dwc-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dwc/contact",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dwc/dime",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dwc/medical-providers",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/incentives-tax-credits",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/independent-contractors-and-coverage-exemptions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/myui-employer",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/safety-and-loss-control",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/starting-a-business",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/just-transition-advisory-committee-jtac-meeting",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/just-transition-advisory-committee-jtac-meeting-0",
+    "lighthouseErrors": [
+      {
+        "id": "tabindex",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/just-transition-advisory-committee-jtac-meeting-2",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/just-transition-advisory-committee-jtac-meeting-3",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/just-transition-advisory-committee-jtac-regular-meeting",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "injured-workers/file-a-workers-compensation-claim",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "injured-workers/colorado-uninsured-employer-fund",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "injured-workers/reporting-your-injury",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "injured-workers/resolve-or-reopen-your-claim",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "injured-workers/understand-potential-benefits",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "insurers/online-filing-of-first-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "insurers/medical-utilization-review",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "insurers/surcharge-collection",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "information-and-resources/helpful-links",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "information-and-resources/faqs-and-terminology",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/colorado-rural-workforce-consortium-crwc",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/career-help",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 4
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 4
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/veterans",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/youth",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "just-transition-blog-post/coal-transition-worker-update-june-2023",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "just-transition-blog-post/public-policy-update-june-2023",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "labor-law-stats/pess-public-employees-social-security",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/audits/audit-process",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/audits/audits-faq",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/audits/state-unemployment-tax-act-dumping-suta",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/audits/ensure-proper-worker-classification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/audits/worker-misclassification-reporting-advisory-opinions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/layoff/separations",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/incentives-tax-credits/federal-bonding",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/layoff-separations/layoff-warn-list",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/layoff-separations/worker-adjustment-retraining-notification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/hiring-a-veteran",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/new-employer-checklist",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/planning-strategic-development",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/recruiting-screening",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/pay-premiums-and-report-wages/help-stop-higher-premium-rates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/pay-premiums-and-report-wages/pay-premiums-and-report-wages-faq",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/pay-premiums-and-report-wages/premium-rates",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/pay-premiums-and-report-wages/premium-rates-and-claims-for-benefits",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/pay-premiums-and-report-wages/premiums",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/colorado-rural-workforce-consortium/rural-workforce-consortium-board",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/career-help/skills-assessment",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/networking",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/migrant-seasonal-farmworkers",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/online-job-search",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 6
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 8,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 6
+      }
+    ],
+    "wcagErrorCount": 6
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/resume-guidance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/programs-opportunities",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/training/educational-programs-training",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/training/pell-grant",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/veterans/veteran-priority",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/workforce-partners-resources/state-plans-reports-and-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/workforce-partners-resources/training-providers-wioa-youth",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/workforce-partners-resources/virtual-job-fairs-events",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/youth/gsjh",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/youth/training-for-youth",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/audits/audit-process",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/audits/ensure-proper-worker-classification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/audits/state-unemployment-tax-act-dumping-suta",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/audits/audits-faq",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/audits/worker-misclassification-reporting-advisory-opinions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/incentives-tax-credits/federal-bonding",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/layoff-separations/layoff-warn-list",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/layoff-separations/worker-adjustment-retraining-notification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/layoff/separations",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/pay-premiums-and-report-wages/help-stop-higher-premium-rates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/pay-premiums-and-report-wages/premium-rates",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/pay-premiums-and-report-wages/premium-rates-and-claims-for-benefits",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/pay-premiums-and-report-wages/premiums",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/pay-premiums-and-report-wages/premiums-calculator",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/hiring-a-veteran",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/new-employer-checklist",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/planning-strategic-development",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/recruiting-screening",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/colorado-rural-workforce-consortium/rural-workforce-consortium-board",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/career-help/skills-assessment",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/training/educational-programs-training",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/training/pell-grant",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/workforce-partners-resources/state-plans-reports-and-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/workforce-partners-resources/virtual-job-fairs-events",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/workforce-partners-resources/training-providers-wioa-youth",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/interviewing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/migrant-seasonal-farmworkers",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/programs-opportunities",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/networking",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/resume-guidance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/veterans/veteran-priority",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/youth/gsjh",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/youth/training-for-youth",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/planning-strategic-development/foreign-labor-certification",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 5
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 5
+      }
+    ],
+    "wcagErrorCount": 5
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/planning-strategic-development/internships",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/recruiting-screening/hiring-events",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/recruiting-screening/assessments",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/career-help/skills-assessment/career-ready-certificate",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdle",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/job-fairs/events",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/planning-strategic-development/foreign-labor-certification",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 5
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 5
+      }
+    ],
+    "wcagErrorCount": 5
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/planning-strategic-development/internships",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/recruiting-screening/hiring-events",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employers/recruiting-hiring/recruiting-screening/assessments",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/career-help/skills-assessment/career-ready-certificate",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdle",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs-training/find-a-job/job-fairs/events",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  }
+]
